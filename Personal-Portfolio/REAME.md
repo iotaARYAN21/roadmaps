@@ -1,4 +1,4 @@
-
+![ScreenShot](screenshots/Desktop.png)
 # Goal
 Add styles to previous project. Focus on layout and responsive design.
 
