@@ -1,10 +1,14 @@
 # This Repository contains Projects from roadmap.sh
 ## Projects Completed So far
 
+**HTML**  
+
 * https://roadmap.sh/projects/basic-html-website
 * https://roadmap.sh/projects/portfolio-website
 * https://roadmap.sh/projects/single-page-cv
 
+**JavaScript**  
+*https://roadmap.sh/projects/simple-tabs  
 
 ## Instructions to run the project
   * Fork the repo
