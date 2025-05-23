@@ -1,5 +1,5 @@
 # Simple Tabs Project
-
+**Project URL : https://roadmap.sh/projects/simple-tabs**
 This project demonstrates a basic implementation of tabbed navigation using **HTML**, **CSS**, and **JavaScript**. It is designed to help beginners understand **DOM manipulation** and **event handling** in JavaScript.
 
 ## 📋 Project Description
