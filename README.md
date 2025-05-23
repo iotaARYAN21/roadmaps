@@ -8,7 +8,7 @@
 * https://roadmap.sh/projects/single-page-cv
 
 **JavaScript**  
-*https://roadmap.sh/projects/simple-tabs  
+* https://roadmap.sh/projects/simple-tabs  
 
 ## Instructions to run the project
   * Fork the repo
