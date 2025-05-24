@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.textarea{
+    width: 25rem;
+    text-align: end;
+    margin: 5rem 2rem ;
+    /* border-radius: 50px ; */
+}
+.main-content{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: max-content;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px ;
+    
+}
