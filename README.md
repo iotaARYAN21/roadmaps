@@ -1,18 +1,46 @@
-# This Repository contains Projects from roadmap.sh
-## Projects Completed So far
+# 📁 Roadmap.sh Projects
 
-**HTML**  
+This repository contains mini-projects built while following the [roadmap.sh](https://roadmap.sh) developer path. Each project helps reinforce core concepts of HTML, CSS, and JavaScript through hands-on practice.
 
-* https://roadmap.sh/projects/basic-html-website
-* https://roadmap.sh/projects/portfolio-website
-* https://roadmap.sh/projects/single-page-cv
+---
 
-**JavaScript**  
-* https://roadmap.sh/projects/simple-tabs  
-* https://roadmap.sh/projects/restricted-textarea
+## ✅ Projects Completed So Far
 
-## Instructions to run the project
-  * Fork the repo
-  * Open the repo folder in your machine and use any code editor like VSCODE
-  * use extension like live-preview or Golive
-Project page url = https://iotaaryan21.github.io/roadmaps/
+### 🟧 HTML Projects
+
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+- [Portfolio Website](https://roadmap.sh/projects/portfolio-website)
+- [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+
+### 🟨 JavaScript Projects
+
+- [Simple Tabs](https://roadmap.sh/projects/simple-tabs)
+- [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)
+- [Cookie Consent Popup](https://roadmap.sh/projects/cookie-consent)
+
+---
+
+## 🚀 How to Run the Projects
+
+1. **Fork or clone this repository**
+2. Open the project folder using your preferred code editor (e.g., VS Code)
+3. Use extensions like:
+   - **Live Server** (recommended)
+   - **Go Live** to preview the projects in your browser
+4. Alternatively, you can open the `.html` files directly in your browser
+
+---
+
+## 🌐 Project Demo Page
+
+You can view live previews of the completed projects here:  
+🔗 [https://iotaaryan21.github.io/roadmaps/](https://iotaaryan21.github.io/roadmaps/)
+
+---
+
+## 🛠️ In Progress
+
+More projects from roadmap.sh will be added as they are completed. Stay tuned!  
+Feel free to explore, learn, and contribute.
+
+---
