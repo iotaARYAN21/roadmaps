@@ -17,7 +17,7 @@ This repository contains mini-projects built while following the [roadmap.sh](ht
 - [Simple Tabs](https://roadmap.sh/projects/simple-tabs)
 - [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)
 - [Cookie Consent Popup](https://roadmap.sh/projects/cookie-consent)
-
+- [Age Calculator](https://roadmap.sh/projects/age-calculator)
 ---
 
 ## 🚀 How to Run the Projects
