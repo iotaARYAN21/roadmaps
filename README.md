@@ -11,6 +11,7 @@ This repository contains mini-projects built while following the [roadmap.sh](ht
 - [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 - [Portfolio Website](https://roadmap.sh/projects/portfolio-website)
 - [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+- [Image Grid](https://roadmap.sh/projects/image-grid)
 
 ### 🟨 JavaScript Projects
 
@@ -18,6 +19,7 @@ This repository contains mini-projects built while following the [roadmap.sh](ht
 - [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)
 - [Cookie Consent Popup](https://roadmap.sh/projects/cookie-consent)
 - [Age Calculator](https://roadmap.sh/projects/age-calculator)
+
 ---
 
 ## 🚀 How to Run the Projects
