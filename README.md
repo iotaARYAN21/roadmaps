@@ -21,7 +21,7 @@ This repository contains mini-projects built while following the [roadmap.sh](ht
 - [Age Calculator](https://roadmap.sh/projects/age-calculator)
 
 
-### Backend Projects
+### 🟩 Backend Projects
 
 - [GitHub-User-Activity-CLI](https://roadmap.sh/projects/github-user-activity)
 
