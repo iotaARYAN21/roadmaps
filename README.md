@@ -20,6 +20,12 @@ This repository contains mini-projects built while following the [roadmap.sh](ht
 - [Cookie Consent Popup](https://roadmap.sh/projects/cookie-consent)
 - [Age Calculator](https://roadmap.sh/projects/age-calculator)
 
+
+### Backend Projects
+
+- [GitHub-User-Activity-CLI](https://roadmap.sh/projects/github-user-activity)
+
+
 ---
 
 ## 🚀 How to Run the Projects
