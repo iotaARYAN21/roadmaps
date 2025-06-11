@@ -24,7 +24,7 @@ This repository contains mini-projects built while following the [roadmap.sh](ht
 ### 🟩 Backend Projects
 
 - [GitHub-User-Activity-CLI](https://roadmap.sh/projects/github-user-activity)
-
+-  [Number-Guessing-Game](https://roadmap.sh/projects/number-guessing-game)
 
 ---
 
